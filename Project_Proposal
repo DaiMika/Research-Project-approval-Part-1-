@@ -1,0 +1,79 @@
+This project proposal outlines the;
+
+Project's objectives.
+Team structure.
+Technology choices.
+Challenges.
+Risk mitigation strategies.
+Infrastructure setup.
+Comparison with existing solutions, and laying the foundation for project approval and subsequent development.
+
+
+Project Name: MXVirtualFit
+
+Tagline: Revolutionising Fitness Anywhere, Anytime.
+
+
+I, Maxyn Edogha is solely responsible for this project proposal. I am a Project Manager & Backend Developer.
+
+My Role is to be responsible for the project coordination, task delegation, and overseeing the overall development process. Also, involved in backend development to handle data management and server-side operations.
+
+My leadership skills and experience makes me suitable for project management, while my backend development expertise ensures efficient data handling.
+
+Technologies:
+
+Languages: Python, JavaScript
+
+Frameworks: Flask
+
+Database: MongoDB
+
+Alternative Technology Consideration: For the backend, an alternative to Flask could have been Django. While Django offers more built-in features and a robust admin interface, I chose Flask for its lightweight nature, flexibility, and ease of integration with MongoDB, aligning with this project's lightweight and scalable requirements.
+
+
+Challenge Statement:
+
+Problem: MXVirtualFit aims to address the challenge of accessing quality fitness guidance remotely, providing personalised workout plans and progress. Although, this project will not solve issues related to physical equipment availability or provide medical advice.
+
+Target Users: MXVirtualFit will benefit individuals seeking convenient and personalised fitness solutions, including busy professionals, travellers, and remote communities.
+
+Dependency: This project is not locale-dependent and can be accessed globally.
+
+
+Risks:
+
+Technical Risks: Integration complexities between frontend and backend components may arise, impacting project timelines. Regular code reviews and testing will ensure early detection and resolution of integration issues.
+
+Non-Technical Risks: User adoption may be hindered by competition from existing fitness apps. 
+
+Strategy: Marketing efforts will focus on highlighting MXVirtualFit's unique features and benefits to attract and retain users.
+
+
+Infrastructure:
+
+Branching and Merging: Utilising Gitflow for branching and merging, ensuring a structured and efficient development process.
+
+Deployment Strategy: Continuous deployment using Docker containers managed through Heroku for seamless updates and scalability.
+
+Data Population: Initial data will be manually inputted by admin users, with user-generated data collected through the app's interaction.
+
+Testing: Automated testing using pytest for backend and Jest for frontend, supplemented with manual QA review for comprehensive coverage.
+
+
+Existing Solutions:
+
+Similar Products: Fitbit Coach, Nike Training 
+
+ClubSimilarities: Provide workout guidance and tracking features.
+
+Differences: MXVirtualFit offers personalised plans based on user input and preferences, whereas Fitbit Coach and Nike Training Club offer pre-designed workouts.
+
+Implementation Choice: 
+
+MXVirtualFit reimplements existing solutions by offering more personalised and adaptable fitness plans, addressing user-specific needs more effectively.
+
+
+
+
+
+
